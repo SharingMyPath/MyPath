@@ -1,3 +1,0 @@
-This is a simple implementation of the Rock, Paper, Scissors game. It prompts the user to input the names of the two players, then asks each player to input their choice of Rock, Paper, or Scissors.
-
-The program then uses if-elif statements to determine the winner based on the rules of the game: Rock beats Scissors, Scissors beats Paper, and Paper beats Rock. If the players choose the same option, the game is a tie. If an invalid option is entered, the program prints an error message.
