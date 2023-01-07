@@ -1,0 +1,1 @@
+I am learning to code in Python and sharing my progress on my GitHub repository. My projects showcase my skills in data analysis, machine learning, and web development. I am constantly learning and always looking for new challenges to tackle. Check out my repository to see some of my work.
